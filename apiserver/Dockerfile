@@ -1,0 +1,2 @@
+FROM gcr.io/google_containers/kube-apiserver:9680e782e08a1a1c94c656190011bd02
+CMD /bin/bash
